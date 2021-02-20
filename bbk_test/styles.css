@@ -1,0 +1,12 @@
+body {
+  background-color: beige;
+}
+h1 {
+  font-size: 4rem;
+  color: rgb(61, 56, 51);
+  text-align: center;
+  transition: 1s;
+}
+h1:hover {
+  color: blueviolet;
+}
