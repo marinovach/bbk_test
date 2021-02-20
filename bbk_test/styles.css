@@ -10,3 +10,7 @@ h1 {
 h1:hover {
   color: blueviolet;
 }
+p {
+  background-color: burlywood;
+  font-size: 18px;
+}
